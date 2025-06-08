@@ -20,15 +20,15 @@
             "desc": "From CodeX channel",
             "url": "https://www.youtube.com/watch?v=WFfaaLwLobA"
         },
-		{
-			"title": "Memory In Flutter",
-			"desc": "Memory Optimization in Flutter",
-			"url": "https://www.youtube.com/watch?v=C018m-GIlWM"
-		},
-		{
-			"title": "Isolates (techniques)",
-			"desc": "From Flutter Youtube Channel",
-			"url": "https://www.youtube.com/watch?v=PPwJ75vqP_s" 
-		}
+        {
+            "title": "Memory In Flutter",
+            "desc": "Memory Optimization in Flutter",
+            "url": "https://www.youtube.com/watch?v=C018m-GIlWM"
+        },
+        {
+            "title": "Isolates (techniques)",
+            "desc": "From Flutter Youtube Channel",
+            "url": "https://www.youtube.com/watch?v=PPwJ75vqP_s"
+        }
     ]
 }
