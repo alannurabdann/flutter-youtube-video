@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "title": "Flutter Multithread",
+            "desc": "Async and Isolate demo",
+            "url": "https://www.youtube.com/watch?v=uWHTlBO7doY"
+        },
+        {
+            "title": "10x Speed Flutter",
+            "desc": "VS code extension and code effectively",
+            "url": "https://www.youtube.com/watch?v=8oIsZEhnqtA"
+        },
+        {
+            "title": "Async vs Isolate",
+            "desc": "From Flutter Youtube Channel",
+            "url": "https://www.youtube.com/watch?v=5AxWC49ZMzs"
+        },
+        {
+            "title": "How to use Isolate",
+            "desc": "From CodeX channel",
+            "url": "https://www.youtube.com/watch?v=WFfaaLwLobA"
+        },
+		{
+			"title": "Memory In Flutter",
+			"desc": "Memory Optimization in Flutter",
+			"url": "https://www.youtube.com/watch?v=C018m-GIlWM"
+		},
+		{
+			"title": "Isolates (techniques)",
+			"desc": "From Flutter Youtube Channel",
+			"url": "https://www.youtube.com/watch?v=PPwJ75vqP_s" 
+		}
+    ]
+}
